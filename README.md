@@ -1,0 +1,1 @@
+El siguiente proyecto codifica una prueba de concepto del software "BazarSafe" donde el gerente del almacen deberá ingresar con su id y contraseña para poder monitorear cámaras, activar y desactivar alarmas y gestionar el almacén, al igual que los empleados deberán ingresar con su id y contraseña para poder monitorear cámaras, activar y desactivar alarmas.
